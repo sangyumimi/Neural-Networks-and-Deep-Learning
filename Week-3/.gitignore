@@ -201,3 +201,7 @@ venv.bak/
 
 
 # End of https://www.gitignore.io/api/macos,python,pycharm,jupyternotebook
+
+# Edit by sangyumimi 04/17/2017
+.idea/*
+# Edit by sangyumimi 04/17/2017
